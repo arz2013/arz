@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cube">
+</Property><Property Name="Solution File" Value="\\acsnfs4.ucsd.edu\cifshomes\269\rtanuatm\Visual Studio 2010\Projects\Homework2-3D\Homework2-3D\Cube.sln">
+</Property><Property Name="User Options File" Value="\\acsnfs4.ucsd.edu\cifshomes\269\rtanuatm\Visual Studio 2010\Projects\Homework2-3D\Homework2-3D\Cube.suo">
+</Property><Property Name="Date" Value="Tuesday, October 08, 2013">
+</Property><Property Name="Time" Value="18:47 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cube.sln" Description="File successfully backed up as \\acsnfs4.ucsd.edu\cifshomes\269\rtanuatm\Visual Studio 2010\Projects\Homework2-3D\Homework2-3D\Cube.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Cube.suo" Description="File successfully backed up as \\acsnfs4.ucsd.edu\cifshomes\269\rtanuatm\Visual Studio 2010\Projects\Homework2-3D\Homework2-3D\Cube.suo.old">
+</Event><Event ErrorLevel="0" Project="Cube" Source="Cube.vcproj" Description="Converting project file '\\acsnfs4.ucsd.edu\cifshomes\269\rtanuatm\Visual Studio 2010\Projects\Homework2-3D\Homework2-3D\Cube.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Cube" Source="Cube.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Cube" Source="Cube.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Cube" Source="Cube.vcproj" Description="Done converting to new project file '\\acsnfs4.ucsd.edu\cifshomes\269\rtanuatm\Visual Studio 2010\Projects\Homework2-3D\Homework2-3D\Cube.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Cube" Source="Cube.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cube.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Cube.sln" Description="Converted">
+</Event></UpgradeLog>
